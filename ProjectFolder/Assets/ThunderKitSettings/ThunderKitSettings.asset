@@ -24,6 +24,9 @@ MonoBehaviour:
   MarkdownOpenMode: 1
   SelectedPipeline: {fileID: 0}
   SelectedManifest: {fileID: 0}
-  QuickAccessPipelines: []
-  QuickAccessManifests: []
+  QuickAccessPipelines:
+  - {fileID: 11400000, guid: ecb69646c59157346a2d6e9787c68507, type: 2}
+  - {fileID: 11400000, guid: 67f994abfb0091c4eb67cc525cd899ac, type: 2}
+  QuickAccessManifests:
+  - {fileID: 11400000, guid: 890d9d7aa9e8c2943b668ebec80164e4, type: 2}
   ImportConfiguration: {fileID: 0}
